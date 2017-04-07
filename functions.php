@@ -71,6 +71,13 @@ function imagely_fonts() {
 	
 }
 
+add_action( 'wp_enqueue_scripts', 'faye_analytics' );
+function faye_analytics(){
+
+    // wp_register_script( 'custom-analytics', get_stylesheet_directory_uri() . '/js/custom-analytics.js' );
+    wp_enqueue_script( 'custom-analytics', get_stylesheet_directory_uri() . '/js/custom-analytics.js');
+}
+
 /* Add support for custom header */
 add_theme_support( 'custom-header', array(
 	'width'           => 800,
