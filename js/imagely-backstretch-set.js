@@ -29,7 +29,7 @@ jQuery(document).ready(function($) {
 		});
 
 		// Pass the image array to Backstretch
-		$(imagelyBackstretchDiv).backstretch( imagelyImages ,{duration:3000,fade:750});
+		$(imagelyBackstretchDiv).backstretch( imagelyImages ,{duration:5800,fade:750});
 
 	// }
 
