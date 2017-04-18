@@ -3143,7 +3143,7 @@ is selected. .imagely-masonry-2 styles simply override some .imagely-masonry sty
    background-image: -webkit-radial-gradient(#3b454f, #212b35);
    background-image:         radial-gradient(#3b454f, #212b35);
    height: 500px;
-   margin-bottom: 100px;
+   margin-bottom: 50px;
    margin-top: 0;
    overflow: hidden;
    text-align: center;
