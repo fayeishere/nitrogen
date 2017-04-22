@@ -2389,7 +2389,7 @@ a[rel~='attachment']:hover,
 /* ---------- 12.5 Flexible Widgets ---------- */
 .flexible-widgets .widget {
    float: left;
-   margin-bottom: 40px;
+/*   margin-bottom: 40px;*/
    padding-left: 40px;
    padding-right: 40px;
 }
