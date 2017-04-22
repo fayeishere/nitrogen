@@ -2324,7 +2324,7 @@ a[rel~='attachment']:hover,
 }
 
 .front-page-3 .widget {
-   padding: 30px 60px 15px 60px;
+/*   padding: 30px 60px 15px 60px;*/
 }
 
 .front-page-3 a.alignleft .entry-image {
@@ -3700,7 +3700,7 @@ is selected. .imagely-masonry-2 styles simply override some .imagely-masonry sty
    .front-page-8 .widget-area,
    .front-page-9 .widget-area,
    .front-page-10 .widget-area {
-      padding: 150px 20px;
+      padding: 100px 20px;
    }
    .front-page-2 .widget-area .widget-title,
    .front-page-3 .widget-area .widget-title,
