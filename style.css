@@ -2190,7 +2190,7 @@ a[rel~='attachment']:hover,
    font-size: 1.8rem;
    font-weight: 400;
    height: 100%;
-   letter-spacing: 2px;
+   letter-spacing: 1.5px;
    -webkit-transform-style: preserve-3d;
            transform-style: preserve-3d;
    width: 100%;
