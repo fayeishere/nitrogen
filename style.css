@@ -2195,6 +2195,9 @@ a[rel~='attachment']:hover,
            transform-style: preserve-3d;
    width: 100%;
 }
+.front-page-1 .widget-area .text-widget{
+   font-weight: 400;
+}
 
 .front-page-1 .widget-area .wrap {
    display: inline-block;
