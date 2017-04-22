@@ -1417,7 +1417,7 @@ p.form-submit,
 .widget_nav_menu .sub-menu .sub-menu {
    display: none;
 }
-
+.textwidget { font-weight: lighter; }
 /* ---------- 9.2 After Entry Widget ------ */
 .after-entry {
    border-bottom: 1px solid #eee;
@@ -2195,10 +2195,6 @@ a[rel~='attachment']:hover,
            transform-style: preserve-3d;
    width: 100%;
 }
-.front-page-1 .widget-area .text-widget{
-   font-weight: 400;
-}
-
 .front-page-1 .widget-area .wrap {
    display: inline-block;
    padding: 50px;
@@ -2224,6 +2220,7 @@ a[rel~='attachment']:hover,
    font-size: 18px;
    font-size: 1.8rem;
    text-transform: uppercase;
+   font-weight: 400;
 }
 
 .front-page-1 p:last-child {
